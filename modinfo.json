@@ -1,0 +1,16 @@
+{
+	"name": "Sync With Realtime",
+	"description": "Sync With Realtime is a mod for Conan Exiles that synchronizes game time with real time",
+	"changeNote": "v1.0.0\n- Implemented real time to game time synchronization\n- SyncTimeOffset command, see documentation for usage",
+	"author": "C4N",
+	"authorUrl": "https://github.com/srcanseco/SyncWithRealtime",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2180376655",
+	"steamVisibility": 2,
+	"folderName": "SyncWithRealtime",
+	"revisionNumber": 233751,
+	"snapshotId": 25795
+}
