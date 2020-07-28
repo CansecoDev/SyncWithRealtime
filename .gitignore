@@ -1,0 +1,9 @@
+# This .gitignore file should be placed at the root of your mod project directory
+#
+# Anything in the "Content/" folder are base-game assets that have been touched (intentionally or not),
+# if you touch basegame assets, you can delete this line.
+#
+/[Cc]ontent/
+
+# The "active.txt" file just means It'll be loaded when the devkit does
+active.txt
