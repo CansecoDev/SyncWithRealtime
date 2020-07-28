@@ -1,6 +1,6 @@
 # About Commands in general
 
-- Any Conan Exiles command have 3 possible flags you should now about:
+- Any Conan Exiles command have 3 possible flags you should know about:
 
   - ![Client](https://img.shields.io/badge/client-blue) : Runs on the client when executed
   - ![Client](https://img.shields.io/badge/server-red) : Runs on the server when executed and can be executed from a remote console
