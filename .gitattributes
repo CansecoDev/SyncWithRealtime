@@ -1,0 +1,28 @@
+# This .gitattributes file should be placed at the root of your mod project directory
+
+* text=auto
+*.[jJ][sS][oO][nN] diff merge text
+
+## versioned-binaries ##
+
+# Unreal Engine Asset
+*.[uU][aA][sS][sS][eE][tT] binary
+*.[uU][mM][aA][pP] binary
+
+# Audacity
+*.[aA][uU] binary
+
+# Image
+*.[pP][nN][gG] binary
+*.[bB][mM][pP] binary
+*.[tT][gG][aA] binary
+*.[pP][sS][dD] binary
+
+## git-lfs ##
+
+# Audio
+*.[wW][aA][vV] filter=lfs diff=lfs merge=lfs -text
+
+# 3D Object
+*.[fF][bB][xX] filter=lfs diff=lfs merge=lfs -text
+*.[bB][lL][eE][nN][dD] filter=lfs diff=lfs merge=lfs -text
