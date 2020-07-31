@@ -1,9 +1,11 @@
 **ID: 2180376655** | Synchronizes game time with real time  
-**Version : 1.0.0**
+**Version : 1.0.1**
 
 Sync With Realtime is a mod for Conan Exiles that synchronizes game time with real time. Now you can have the immersion feel of playing late night while is dark.
 
 Works in singleplayer/co-op and dedicated servers.
+
+[Download older versions](https://github.com/srcanseco/SyncWithRealtime/releases)
 
 # About Sync With Realtime
 This mod will keep your game time in sync with real time, no matter how long your game or server has been shut down, it will catch up with real time as soon as it starts and keep it synchronized.
